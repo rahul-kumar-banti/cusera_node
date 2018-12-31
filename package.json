@@ -1,0 +1,22 @@
+{
+  "name": "cusera_node",
+  "version": "1.0.0",
+  "description": "only for studey purpose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahulbanti36/cusera_node.git"
+  },
+  "author": "rahul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rahulbanti36/cusera_node/issues"
+  },
+  "homepage": "https://github.com/rahulbanti36/cusera_node#readme",
+  "dependencies": {
+    "npm": "^6.5.0"
+  }
+}
