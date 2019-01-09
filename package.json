@@ -19,6 +19,7 @@
   "homepage": "https://github.com/rahulbanti36/cusera_node#readme",
   "dependencies": {
     "express": "^4.16.4",
+    "morgan": "^1.9.1",
     "npm": "^6.5.0"
   }
 }
